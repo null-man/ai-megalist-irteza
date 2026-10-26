@@ -427,6 +427,9 @@ Make things - words, images, video, sound.
 | [Alors On Danse Video Maker](https://alorsondansevideo.com) | Independent AI: two photos → 13s studio dance video (Paid; not affiliated with Stromae/TikTok) |
 | [Bad Times AI](https://badtimesai.dev) | Independent AI dance effect: one photo → 14–15s portrait dance video (Paid from $7.99) |
 | [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com) | Independent AI scene effect: two photos → balcony/spotlight meeting video (Paid from $7.99) |
+| [KDA Firestarter AI Dance](https://kdafirestarterai.dev) | Independent AI scene effect: two photos → balcony/spotlight meeting video (Paid from $7.99) |
+| [A2O LITE NEON AI Dance](https://a2oliteai.org) | Independent AI scene effect: two photos → balcony/spotlight meeting video (Paid from $7.99) |
+| [dime dime baby ai](https://dimedimebabyai.dev) | Independent AI scene effect: two photos → balcony/spotlight meeting video (Paid from $7.99) |
 
 > ⚠️ **Heads up (April 2026):** OpenAI's Sora consumer apps shut down on **2026-04-26**; the API follows on **2026-09-24**.
 
