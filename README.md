@@ -424,6 +424,9 @@ Make things - words, images, video, sound.
 | [Wan 2.x](tools/wan.md) | `OSS` Alibaba; Apache 2.0; strong motion at small + big sizes |
 | [Gemini Omni](https://gemini-omni.pro) | `Free` Google omni-modal model; text, image, video & audio in one prompt; native audio sync; free 720p |
 | [GrokVideo Studio](https://grokvideogenerator.dev) | Independent text/image-to-video via Grok Imagine API (not affiliated with xAI/X); `Free` trial credits |
+| [Alors On Danse Video Maker](https://alorsondansevideo.com) | Independent text/image-to-video via Grok Imagine API (not affiliated with xAI/X); `Free` trial credits |
+| [Bad Times AI](https://badtimesai.dev) | Independent text/image-to-video via Grok Imagine API (not affiliated with xAI/X); `Free` trial credits |
+| [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com) | Independent text/image-to-video via Grok Imagine API (not affiliated with xAI/X); `Free` trial credits |
 
 > ⚠️ **Heads up (April 2026):** OpenAI's Sora consumer apps shut down on **2026-04-26**; the API follows on **2026-09-24**.
 
